@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:memuna.javedd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="YOUR_RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
+  <a href="[YOUR_RESUME_LINK_HERE](https://github.com/memuna-javedd/memuna-javedd/blob/main/Memuna_Javed_Resume.pdf)"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
 </p>
 
 ## ⟡ Who am I
