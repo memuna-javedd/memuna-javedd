@@ -9,7 +9,7 @@
 Software Engineering student at NUST (Class of 2029), teaching myself machine learning on the side.
 
 ## ⟡ Soon, I wil be
-A machine learning engineer.
+A machine learning engineer (Inshallah).
 
 ## ⟡ Learning at the moment
 - Machine Learning Specialization by Andrew Ng (Coursera)
