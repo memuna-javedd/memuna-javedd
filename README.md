@@ -5,10 +5,10 @@
   <a href="[YOUR_RESUME_LINK_HERE](https://github.com/memuna-javedd/memuna-javedd/blob/main/Memuna_Javed_Resume.pdf)"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
 </p>
 
-## ⟡ Who am I
+## ⟡ Who I am
 Software Engineering student at NUST (Class of 2029), teaching myself machine learning on the side.
 
-## ⟡ Soon, I wil be
+## ⟡ Soon, I will be
 A machine learning engineer (Inshallah).
 
 ## ⟡ Learning at the moment
